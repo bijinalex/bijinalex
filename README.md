@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://avatars.githubusercontent.com/u/183818472?v=4)
+
 ## Hi there 👋
 
 <!--
