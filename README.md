@@ -1,5 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-HI, I AM  Bijin Alex 👋
+
+# 💫 About Me :
+Passionate Animation enthusiast and gamer | Loves to explore new fields of technologies | Let's connect and grow together in the tech and creative fields!
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
 Thank for visiting *_*
