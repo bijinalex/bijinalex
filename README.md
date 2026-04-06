@@ -1,9 +1,6 @@
 
 # 💫 About Me :
 Passionate Animation enthusiast and gamer | Loves to explore new fields of technologies | Let's connect and grow together in the tech and creative fields!
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bijinalex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
